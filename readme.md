@@ -109,7 +109,7 @@ La función diagonalDifference calcula la diferencia absoluta entre la suma de l
 6. Finalmente, se devuelve el resultado.
 
 
-## Suma muy grande
+# Suma muy grande
 
 Calcular e imprimir la suma de los elementos en un array de n números enteros, teniendo en cuenta que algunos de esos números enteros pueden ser bastante grande.
 
