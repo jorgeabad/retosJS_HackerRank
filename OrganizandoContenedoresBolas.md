@@ -1,4 +1,3 @@
-x
 # Contenedores organizadores de bolas
 
 Dado un conjunto de contenedores numerados del 0 al *n*, cada uno de ellos contiene un número de bolas que puede ser del tipo 0 al *n*. En otras palabras, hay la misma cantidad de tipos de bolas que de contenedores. Por ejemplo, consideremos la siguiente tabla:
